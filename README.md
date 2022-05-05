@@ -10,7 +10,7 @@ All buttons will be disabled except restart. Restart time will be limited to 11:
 If the program runs after 5:00 PM, the hour selection is extended by 8 hours to accommodate work shift. 
 The header image can be customized by placing a logo.png file with a size of 350 x 40 pixels.
 
-![This is an image](https://github.com/jbgdion/we.reboot/blob/main/weeBoot.png)
+![This is an image](https://github.com/jbgdion/we.reboot/blob/main/weeboot.png)
 
 Please contact me mobiuxer@gmail.com if you want to use this utility. 
 
