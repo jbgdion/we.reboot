@@ -46,4 +46,4 @@ weeBoot.exe [-lastreboot:n] [-timer:n] [-force] [-float] [-nogui] [-poweroff]
       
        Shows the restart window with the default 60 minute countdown if computer is not rebooted more than 30 days
 
-![This is an image](https://github.com/jbgdion/we.reboot/blob/main/weeboot.gif)
+![This is an image](https://github.com/jbgdion/we.reboot/blob/main/weeboot-loop.gif)
