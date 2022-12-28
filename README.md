@@ -7,7 +7,7 @@ weeBoot is a utility program that shows the remaining time before it restarts th
 Default countdown timer is 60 minutes. User can change the time of the restart. The countdown timer will automatically update when the user changes the restart time. 
 At less than 30 minutes, it will automatically pop up every 10 minutes as a reminder. At less than 5 minutes, it will be fixed at the bottom right corner. 
 All buttons will be disabled except restart. Restart time will be limited to 11:59 PM if the program runs before 5:00 PM. 
-If the program runs after 5:00 PM, the hour selection is extended by 8 hours to accommodate work shift. 
+If the program runs after 5:00 PM, the hour selection is extended by 8 hours to accommodate work shift. If the computer goes to sleep, the reboot time is recalculated based on the remaining countdown timer when the computer wakes up. 
 The header image can be customized by placing a logo.png file with a size of 350 x 40 pixels.
 
 ![This is an image](https://github.com/jbgdion/we.reboot/blob/main/weeboot.png)
