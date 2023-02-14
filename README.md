@@ -17,7 +17,7 @@ Please contact me mobiuxer@gmail.com if you want to use this utility.
 
 **Usage:**
 
-weeBoot.exe [-lastreboot:n] [-timer:n] [-force] [-float] [-nogui] [-poweroff]
+weeBoot.exe [-lastreboot:n] [-timer:n] [-lock] [-float] [-nogui] [-poweroff]
 
    -lastreboot:n 
   
@@ -29,7 +29,7 @@ weeBoot.exe [-lastreboot:n] [-timer:n] [-force] [-float] [-nogui] [-poweroff]
   
   -float Shows title bar at the start to allow moving of the window.
     
-  -force Prevents user from changing reboot time.
+  -lock Prevents user from changing reboot time.
   
   -nogui No window pop up. No countdown timer. 
       
